@@ -38,7 +38,7 @@ form {
   margin-bottom: 20px;
   border-radius: 5px;
   border: 3px solid #333333;
-  background-color: #2c2c2c;
+  background-color: #f06a2d;
 }
 
 form:hover {
@@ -59,10 +59,10 @@ input[type="number"] {
 
 button {
   padding: 5px;
-  background-color: #10acc0;
+  background-color: #abe116;
   border: none;
   border-radius: 5px;
-  color: #fff;
+  color: #1d1b1b;
   cursor: pointer;
   transition: background-color 0.3s;
 }
@@ -72,6 +72,7 @@ button:hover {
 }
 
 #expense-list {
+  background-color: #e99528;
   list-style-type: none;
   padding: 10px;
   border: 1px dashed #333333;
