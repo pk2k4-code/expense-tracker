@@ -59,7 +59,7 @@ input[type="number"] {
 
 button {
   padding: 5px;
-  background-color: #10acc0;
+  background-color: #c0103f;
   border: none;
   border-radius: 5px;
   color: #fff;
@@ -72,9 +72,11 @@ button:hover {
 }
 
 #expense-list {
+  background-color: #52a0d7;
   list-style-type: none;
   padding: 10px;
   border: 1px dashed #333333;
+  border-radius: 5px;
   margin-bottom: 10px;
 }
 
